@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\MyAuthorization form\bin\Debug\MyAuthorization form.exe.config
+C:\Users\Admin\source\repos\MyAuthorization form\bin\Debug\MyAuthorization form.exe
+C:\Users\Admin\source\repos\MyAuthorization form\bin\Debug\MyAuthorization form.pdb
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization form.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization_form.Properties.Resources.resources
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization form.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization form.exe
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization form.pdb
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization_form.AboutProgram.resources
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization_form.AuthorizationControl.resources
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization_form.MainForm.resources
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization_form.ProfileControl.resources
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization_form.MessageBox.resources
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization_form.ChangePassword.resources
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization_form.ListOfUser.resources
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization_form.ConfirmDialog.resources
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization_form.AddNewUser.resources
+C:\Users\Admin\source\repos\MyAuthorization form\obj\Debug\MyAuthorization_form.OnEditUser.resources
